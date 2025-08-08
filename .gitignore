@@ -1,0 +1,11 @@
+# Ignore dependencies and build folders
+node_modules/
+.cache/
+dist/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
